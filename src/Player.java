@@ -2,6 +2,7 @@ import java.util.Random;
 
 public class Player {
 
+    // test comment
     private String name;
 
     public Player(String name){
