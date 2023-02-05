@@ -9,3 +9,5 @@
   * **Paper** beats **rock**
 
 The game should display the choices made by both the player and the computer, as well as the result of the game (win, loss, or draw).
+
+This exercise is a part of MindSwap bootcamp practice.
